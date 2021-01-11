@@ -1,3 +1,14 @@
+body {
+  /*background-color: rgb(231, 228, 228);*/
+  background-image: url("https://lh3.googleusercontent.com/h-i--8n1YkARbSIceykDdSAbqWRMdwMsP_Ed4EFeFKXY76ZUOL4Ekn7678PqFnP6FRu9RdC33b_OE07CdWPOkOHrMfYH2d_JlgRdyVuBWSyYiDMdGCFX6YmQXKaDgyOMdNRfcOTwXA=w2400");
+  font-family: Garamond ; 
+}
+
+
+
+
+
+
 #Video-Ad {
     margin-top: 50px;
     display: flex;
