@@ -1,44 +1,17 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-
 body {
     background-color: #eee;
-    font-family: 'calibri';
+    font-family: calibri;
   }
 
   #page-wrapper {
     position: relative;
   }
 
+  li {
+    list-style: none;
+  }
+
   a {
-    color: rgb(0, 0, 0);
+    color: #000;
     text-decoration: none;
   }
-
-  /** global classes styling **/
-
-  .container {
-    max-width: 1000px;
-    width: 100%;
-    margin: 0 auto;
-  }
-
-  .btn {
-    padding: 0 20px;
-    height: 30px;
-    font-size: 1em;
-    font-weight: 750;
-    border: 2px black solid;
-    border-radius: 10px;
-    background: transparent;
-    cursor: pointer;
-  }
-
-  .grid {
-    display: flex;
-  }
-
-  
