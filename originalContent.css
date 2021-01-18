@@ -90,11 +90,7 @@ header {
   margin-left: 20px;
 }
 
-@media (max-width: 650px) {
-  .logo > img {
-    margin: 0 auto;
-  }
-}
+
 
 nav {
   font-weight: 400;
