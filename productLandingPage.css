@@ -163,13 +163,13 @@
     height: 30px;
     margin: 15px 0;
     border: 0;
-    background-color: #080808;
-    color: white;
+    background-color: #39603D;
+    color: #ffffff;
   }
 
   #hero input[type='submit']:hover {
-    background-color: #2c2c2c;
-    transition: background-color 0.25s;
+    background-color: #3C403D;
+    transition: background-color 0.5s;
   }
   
   @media (max-width: 650px) {
@@ -184,7 +184,8 @@
     justify-content: center;
     height: 125px;
     width: 20vw;
-    color: rgb(247, 247, 248);
+    
+    color: #39603D;
   }
   
   @media (max-width: 550px) {
@@ -200,6 +201,7 @@
     height: 125px;
     width: 80vw;
     padding: 5px;
+    color: #3C403D;
   }
   
   @media (max-width: 550px) {
@@ -242,20 +244,22 @@
     text-align: center;
     width: calc(100% / 3);
     margin: 10px;
-    border: 1px solid #000;
-    border-radius: 3px;
+    border: 2px solid #39603D;
+    /*border-radius: 10px;*/
   }
 
   .product > .level {
-    background-color: #ddd;
-    color: black;
+    background-color: #39603D;
+    color: #ffffff;
     padding: 15px 0;
     width: 100%;
     font-weight: 700;
+    border-radius:inherit;
   }
 
   .product > h2 {
     margin-top: 15px;
+    color: #39603D;
   }
 
   .product > ol {
@@ -264,17 +268,19 @@
 
   .product > ol > li {
     padding: 3px 0;
+    color: #3C403D;
   }
 
   .product > button {
     border: 0;
     margin: 15px 0;
-    background-color: #aca99f;
+    background-color: #39603D;
     font-weight: 400;
+    color: #ffffff;
   }
 
   .product > button:hover {
-    background-color: #80764f;
+    background-color: #3C403D;
     transition: background-color 0.5s;
   }
   
@@ -292,8 +298,8 @@
 
   footer {
     margin-top: 30px;
-    background-color: #ddd;
     padding: 20px;
+    color: #3C403D;
   }
 
   footer > ul {
@@ -310,7 +316,7 @@
     display: flex;
     justify-content: flex-end;
     font-size: 0.9em;
-    color: #444;
+    color: #3C403D;
   }
 
 
