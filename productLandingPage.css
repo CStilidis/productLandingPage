@@ -30,17 +30,15 @@
   .container {
     max-width: 1000px;
     width: 100%;
-    margin: 0 auto;
+    margin: 100 auto;
   }
 
   .btn {
     padding: 0 20px;
     height: 40px;
     font-size: 1em;
-    font-weight: 500;
-    border: 3px rgb(87, 78, 78) solid;
+    font-weight: 520;
     border-radius: 7px;
-    background: transparent;
     cursor: pointer;
   }
 
