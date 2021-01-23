@@ -30,7 +30,7 @@
   .container {
     max-width: 1000px;
     width: 100%;
-    margin: 100 auto;
+    margin: auto auto;
   }
 
   .btn {
@@ -162,7 +162,7 @@
   
   @media (max-width: 650px) {
     #hero {
-      margin-top: 120px;
+      margin: 250px;
     }
   }
 
